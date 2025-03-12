@@ -1,4 +1,4 @@
-## Rio-Fernando-Tugas-1-PBO-II-
+## Rio Fernando-Tugas 1 PBO II-Design Pattern: Prototype
 
 1. Prototype dalam design pattern adalah pola desain yang digunakan untuk membuat objek baru dengan menyalin objek yang sudah ada daripada membuat objek baru dari awal. Pola ini termasuk _creational design pattern_ karena berfokus dalam pembuatan objek.
    
