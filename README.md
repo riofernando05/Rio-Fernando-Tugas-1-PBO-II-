@@ -9,7 +9,7 @@
    - Saat objek memiliki banyak variasi dan pengguna harus memodifikasi atribut
      Dalam beberapa kasus, terdapat objek yang memiliki banyak variasi, tetapi semua variasi itu memiliki atribut yang sebagian besar sama. Disini prototype digunakan untuk mengkloning objek dan mengubah bagian-bagian tertentu yang dibutuhkan. Contohnya di dalam video game, karakter dengan atribut yang hampir sama (level, atribut, keahlian) dapat dibuat dengan mengkloning karakter prototipe, kemudian memodifikasi nama atau atribut lainnya sesuai kebutuhan.
      
-3. Kelebihan design pattern prototype:
+3.   Kelebihan design pattern prototype:
    - Lebih efisien dalam membuat objek: Prototype memungkinkan mengkloning objek yang sudah ada daripada membuatnya dari nol. Ini sangat menghemat waktu dan sumber daya, terutama jika objek yang dibuat terlalu kompleks.
    - Lebih fleksibel dalam membuat objek: Objek baru dapat dibuat dengan mengkloning objek yang sudah ada kemudian memodifikasi beberapa atributnya sesuai kebutuhan.
      
